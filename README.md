@@ -171,6 +171,7 @@ Alternatively, you can try Ovis-U1 directly in your browser on [![Hugging Face S
 | BAGEL | 6.519 | 7.324 |	<ins>6.909</ins> |	<ins>6.381</ins> |	4.753 |	4.573 |	6.150 |	**7.896** |	7.164 |	7.021 |	7.320 |	6.218 |	
 | Ovis-U1 |6.420 | **7.486** |	6.879 |	6.208 |	4.790 |	5.981 |	6.463 |	7.491 |	<ins>7.254</ins> |	7.266 |	4.482 |	6.314 |	
 
+* Note that the leaderboard has been updated by this [commit](https://github.com/step1x-edit/step1x-edit.github.io/commit/b45f822d64a1b5b3239509fb7905efb2afad0300). The results shown here are from an earlier version.
 
 ## 📚 Citation
 
