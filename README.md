@@ -43,7 +43,8 @@ Here are some examples demonstrating the capabilities of Ovis-U1.
 
 ## 🚀 News
 
-- [2025/6/28] 🔥 Announcing Ovis-U1-3B ([Model](https://huggingface.co/AIDC-AI/Ovis-U1-3B), [Demo](https://huggingface.co/spaces/AIDC-AI/Ovis-U1-3B))!
+- [2025/11/29] 🔥 Announcing Ovis-Image ([GitHub](https://github.com/AIDC-AI/Ovis-Image), [Model](https://huggingface.co/AIDC-AI/Ovis-Image-7B), [Demo](https://huggingface.co/spaces/AIDC-AI/Ovis-Image-7B))!
+- [2025/6/28] Announcing Ovis-U1-3B ([Model](https://huggingface.co/AIDC-AI/Ovis-U1-3B), [Demo](https://huggingface.co/spaces/AIDC-AI/Ovis-U1-3B))!
 
 
 ## 📦 Installation
